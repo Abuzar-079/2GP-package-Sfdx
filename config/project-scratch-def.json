@@ -1,0 +1,30 @@
+{
+  "orgName": "Base",
+  "sourceOrg": "00D8d000007YxgS",
+  "features": [
+    "EnableSetPasswordInApi",
+    "Communities",
+    "ForceComPlatform",
+    "PartnerCommunity",
+    "Copilot",
+    "Einstein1AIPlatform",
+    "EINSTEINGPT",
+    "EINSTEINGPTPLATFORM",
+    "EINSTEINGENERATIVESERVICES",
+    "EINSTEINLLMREQUESTSHOURLY"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "einsteinGptSettings": {
+    "enableEinsteinGptPlatform": true
+    }
+  }
+}

@@ -1,0 +1,67 @@
+# Salesforce CLI state and generated files
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+
+# Package source repositories managed separately
+/force-app/
+/force-app-Axo/
+/force-app-CPQ/
+/force-app-Finance/
+/force-app-Hrms/
+/force-app-Logistic/
+/force-app-Manufacturing/
+/force-app-Scheduler/
+/manifest/
+
+# Local editor files
+.vscode/
+*.code-workspace
+
+# LWC editor autocomplete
+**/lwc/jsconfig.json
+
+# Dependencies and build/test output
+node_modules/
+coverage/
+test-results/
+test-results.json
+**/test-run-id.txt
+**/testclasslist.txt
+
+# Generated code-analysis output
+reports/
+pv_report.json
+
+# Logs and diagnostic archives
+logs/
+*.log
+*.log.gz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tool caches
+.eslintcache
+.stylelintcache
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Local scratch files currently present at the project root
+/testfile.txt
+/testfile.txt.gpg
+
+
+# Local environment variables
+.env
