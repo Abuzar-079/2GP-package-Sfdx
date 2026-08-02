@@ -162,10 +162,42 @@
     {
       "path": "force-app-Scheduler",
       "package": "Axolt_Scheduler",
-      "versionName": "AxoltScheduler 2.10.0",
-      "versionNumber": "2.10.0.NEXT",
+      "versionName": "AxoltScheduler 2.11.0",
+      "versionNumber": "2.11.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "default": true,
+      "definitionFile": "config/project-scratch-def.json",
+      "packageMetadataAccess": {
+        "permissionSets": [
+          "EinsteinGPTPromptTemplateManager"
+        ]
+      },
+      "features": [
+        "Communities",
+        "PartnerCommunity",
+        "ForceComPlatform",
+        "EnableSetPasswordInApi",
+        "Copilot",
+        "Einstein1AIPlatform",
+        "EINSTEINGPT",
+        "EINSTEINGPTPLATFORM",
+        "EINSTEINGENERATIVESERVICES",
+        "EINSTEINLLMREQUESTSHOURLY"
+      ],
+      "settings": {
+        "mobileSettings": {
+          "enableS1EncryptedStoragePref2": false
+        },
+        "lightningExperienceSettings": {
+          "enableS1DesktopEnabled": true
+        },
+        "communitiesSettings": {
+          "enableNetworksEnabled": true
+        },
+        "einsteinGptSettings": {
+          "enableEinsteinGptPlatform": true
+        }
+      },
       "apexTestAccess": {
         "permissionSets": [
           "Axolt_Scheduler_PS"
@@ -1253,6 +1285,9 @@
     "Axolt_CPQ@1.65.0-2": "04tN1000006lC5VIAU",
     "Axolt_Base@2.364.0-2": "04tN1000006lvVdIAI",
     "Axolt_Logistic@1.143.0-1": "04tN1000006mP5WIAU",
-    "Axolt_Finance@1.125.0-1": "04tN1000006mSY4IAM"
+    "Axolt_Finance@1.125.0-1": "04tN1000006mSY4IAM",
+    "Axolt_HRMS@1.66.0-1": "04tN1000006n0GLIAY",
+    "Axolt_HRMS@1.66.0-2": "04tN1000006n1U9IAI",
+    "Axolt_Scheduler@2.11.0-1": "04tN1000006nDiDIAU"
   }
 }
