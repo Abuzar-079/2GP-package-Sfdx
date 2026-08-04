@@ -2,10 +2,10 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false,
+      "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.364.0",
-      "versionNumber": "2.364.0.NEXT",
+      "versionName": "AxoltBase2.365.0",
+      "versionNumber": "2.365.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -165,7 +165,7 @@
       "versionName": "AxoltScheduler 2.11.0",
       "versionNumber": "2.11.0.NEXT",
       "ancestorVersion": "HIGHEST",
-      "default": true,
+      "default": false,
       "definitionFile": "config/project-scratch-def.json",
       "packageMetadataAccess": {
         "permissionSets": [
@@ -1288,6 +1288,7 @@
     "Axolt_Finance@1.125.0-1": "04tN1000006mSY4IAM",
     "Axolt_HRMS@1.66.0-1": "04tN1000006n0GLIAY",
     "Axolt_HRMS@1.66.0-2": "04tN1000006n1U9IAI",
-    "Axolt_Scheduler@2.11.0-1": "04tN1000006nDiDIAU"
+    "Axolt_Scheduler@2.11.0-1": "04tN1000006nDiDIAU",
+    "Axolt_Base@2.365.0-1": "04tN1000006odvZIAQ"
   }
 }
