@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.366.0",
-      "versionNumber": "2.366.0.NEXT",
+      "versionName": "AxoltBase2.367.0",
+      "versionNumber": "2.367.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -71,8 +71,8 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.65.0",
-      "versionNumber": "1.65.0.NEXT",
+      "versionName": "AxoltCPQ1.66.0",
+      "versionNumber": "1.66.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -82,7 +82,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.363.0-1"
+          "package": "Axolt_Base@2.366.0-2"
         }
       ]
     },
@@ -126,8 +126,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.143.0",
-      "versionNumber": "1.143.0.NEXT",
+      "versionName": "AxoltLogistic1.144.0",
+      "versionNumber": "1.144.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -137,15 +137,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.364.0-2"
+          "package": "Axolt_Base@2.367.0-1"
         }
       ]
     },
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.115.0",
-      "versionNumber": "1.115.0.NEXT",
+      "versionName": "AxoltManufacturing1.116.0",
+      "versionNumber": "1.116.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -1292,6 +1292,11 @@
     "Axolt_Base@2.365.0-1": "04tN1000006odvZIAQ",
     "Axolt_Base@2.366.0-1": "04tN1000006p6G3IAI",
     "Axolt_Base@2.366.0-2": "04tN1000006pAI1IAM",
-    "Axolt_Scheduler@2.12.0-1": "04tN1000006pARhIAM"
+    "Axolt_Scheduler@2.12.0-1": "04tN1000006pARhIAM",
+    "Axolt_Manufacturing@1.115.0-1": "04tN1000006pYFVIA2",
+    "Axolt_CPQ@1.66.0-1": "04tN1000006pfNRIAY",
+    "Axolt_Base@2.367.0-1": "04tN1000006pnKzIAI",
+    "Axolt_Manufacturing@1.116.0-1": "04tN1000006pvOzIAI",
+    "Axolt_Logistic@1.144.0-1": "04tN1000006pvdVIAQ"
   }
 }
