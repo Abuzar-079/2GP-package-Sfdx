@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.365.0",
-      "versionNumber": "2.365.0.NEXT",
+      "versionName": "AxoltBase2.366.0",
+      "versionNumber": "2.366.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -89,8 +89,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.125.0",
-      "versionNumber": "1.125.0.NEXT",
+      "versionName": "AxoltFinance1.126.0",
+      "versionNumber": "1.126.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -100,7 +100,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.364.0-2"
+          "package": "Axolt_Base@2.366.0-2"
         }
       ]
     },
@@ -144,8 +144,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.114.0",
-      "versionNumber": "1.114.0.NEXT",
+      "versionName": "AxoltManufacturing1.115.0",
+      "versionNumber": "1.115.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -155,15 +155,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.362.0-1"
+          "package": "Axolt_Base@2.366.0-2"
         }
       ]
     },
     {
       "path": "force-app-Scheduler",
       "package": "Axolt_Scheduler",
-      "versionName": "AxoltScheduler 2.11.0",
-      "versionNumber": "2.11.0.NEXT",
+      "versionName": "AxoltScheduler 2.12.0",
+      "versionNumber": "2.12.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "default": false,
       "definitionFile": "config/project-scratch-def.json",
@@ -1289,6 +1289,9 @@
     "Axolt_HRMS@1.66.0-1": "04tN1000006n0GLIAY",
     "Axolt_HRMS@1.66.0-2": "04tN1000006n1U9IAI",
     "Axolt_Scheduler@2.11.0-1": "04tN1000006nDiDIAU",
-    "Axolt_Base@2.365.0-1": "04tN1000006odvZIAQ"
+    "Axolt_Base@2.365.0-1": "04tN1000006odvZIAQ",
+    "Axolt_Base@2.366.0-1": "04tN1000006p6G3IAI",
+    "Axolt_Base@2.366.0-2": "04tN1000006pAI1IAM",
+    "Axolt_Scheduler@2.12.0-1": "04tN1000006pARhIAM"
   }
 }
