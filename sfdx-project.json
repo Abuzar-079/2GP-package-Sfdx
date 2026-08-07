@@ -89,8 +89,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.126.0",
-      "versionNumber": "1.126.0.NEXT",
+      "versionName": "AxoltFinance1.127.0",
+      "versionNumber": "1.127.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -100,7 +100,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.366.0-2"
+          "package": "Axolt_Base@2.367.0-1"
         }
       ]
     },
@@ -1297,6 +1297,7 @@
     "Axolt_CPQ@1.66.0-1": "04tN1000006pfNRIAY",
     "Axolt_Base@2.367.0-1": "04tN1000006pnKzIAI",
     "Axolt_Manufacturing@1.116.0-1": "04tN1000006pvOzIAI",
-    "Axolt_Logistic@1.144.0-1": "04tN1000006pvdVIAQ"
+    "Axolt_Logistic@1.144.0-1": "04tN1000006pvdVIAQ",
+    "Axolt_Finance@1.127.0-1": "04tN1000006r4wTIAQ"
   }
 }
