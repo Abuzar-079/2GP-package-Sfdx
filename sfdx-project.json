@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.371.0",
-      "versionNumber": "2.371.0.NEXT",
+      "versionName": "AxoltBase2.372.0",
+      "versionNumber": "2.372.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -126,8 +126,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.144.0",
-      "versionNumber": "1.144.0.NEXT",
+      "versionName": "AxoltLogistic1.145.0",
+      "versionNumber": "1.145.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -137,7 +137,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.367.0-1"
+          "package": "Axolt_Base@2.371.0-1"
         }
       ]
     },
@@ -1312,6 +1312,7 @@
     "Axolt_HRMS@1.67.0-1": "04tN1000006tr0DIAQ",
     "Axolt_CPQ@1.70.0-1": "04tN1000006uS4bIAE",
     "Axolt_Base@2.371.0-1": "04tN1000006uv6bIAA",
-    "Axolt_Finance@1.129.0-1": "04tN1000006uvplIAA"
+    "Axolt_Finance@1.129.0-1": "04tN1000006uvplIAA",
+    "Axolt_Base@2.372.0-1": "04tN1000006uz8bIAA"
   }
 }
