@@ -126,8 +126,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.145.0",
-      "versionNumber": "1.145.0.NEXT",
+      "versionName": "AxoltLogistic1.146.0",
+      "versionNumber": "1.146.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -137,7 +137,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.372.0-1"
+          "package": "Axolt_Base@2.374.0-1"
         }
       ]
     },
@@ -1318,6 +1318,7 @@
     "Axolt_Finance@1.130.0-1": "04tN1000006wypxIAA",
     "Axolt_Base@2.373.0-1": "04tN1000006x0TZIAY",
     "Axolt_Base@2.374.0-1": "04tN1000006xV17IAE",
-    "Axolt_Base@2.375.0-1": "04tN1000006xY3pIAE"
+    "Axolt_Base@2.375.0-1": "04tN1000006xY3pIAE",
+    "Axolt_Finance@1.131.0-1": "04tN1000006xYVFIA2"
   }
 }
