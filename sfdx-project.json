@@ -2,10 +2,10 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false,
+      "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.376.0",
-      "versionNumber": "2.376.0.NEXT",
+      "versionName": "AxoltBase2.377.0",
+      "versionNumber": "2.377.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -89,9 +89,9 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.134.0",
-      "versionNumber": "1.134.0.NEXT",
-      "default": true,
+      "versionName": "AxoltFinance1.135.0",
+      "versionNumber": "1.135.0.NEXT",
+      "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
         "permissionSets": [
@@ -100,7 +100,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.374.0-1"
+          "package": "Axolt_Base@2.377.0-1"
         }
       ]
     },
@@ -1323,6 +1323,9 @@
     "Axolt_Logistic@1.146.0-1": "04tN1000006xfOfIAI",
     "Axolt_Finance@1.133.0-1": "04tN1000006xjaLIAQ",
     "Axolt_Scheduler@2.13.0-1": "04tN1000006xx0bIAA",
-    "Axolt_Finance@1.134.0-1": "04tN1000006xyMTIAY"
+    "Axolt_Finance@1.134.0-1": "04tN1000006xyMTIAY",
+    "Axolt_Base@2.377.0-1": "04tN1000006z0CXIAY",
+    "Axolt_Finance@1.135.0-1": "04tN1000006zB9ZIAU"
+ 
   }
 }
