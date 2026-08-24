@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": false,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.375.0",
-      "versionNumber": "2.375.0.NEXT",
+      "versionName": "AxoltBase2.376.0",
+      "versionNumber": "2.376.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
