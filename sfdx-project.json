@@ -89,8 +89,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.136.0",
-      "versionNumber": "1.136.0.NEXT",
+      "versionName": "AxoltFinance1.137.0",
+      "versionNumber": "1.137.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -100,7 +100,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.377.0-1"
+          "package": "Axolt_Base@2.379.0-1"
         }
       ]
     },
@@ -162,8 +162,8 @@
     {
       "path": "force-app-Scheduler",
       "package": "Axolt_Scheduler",
-      "versionName": "AxoltScheduler 2.15.0",
-      "versionNumber": "2.15.0.NEXT",
+      "versionName": "AxoltScheduler 2.16.0",
+      "versionNumber": "2.16.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "default": false,
       "definitionFile": "config/project-scratch-def.json",
@@ -1331,6 +1331,8 @@
     "Axolt_Logistic@1.147.0-1": "04tN1000006zuRdIAI",
     "Axolt_Scheduler@2.14.0-1": "04tN10000070Xb3IAE",
     "Axolt_Base@2.379.0-1": "04tN10000070YbxIAE",
-    "Axolt_Scheduler@2.15.0-1": "04tN10000070YvJIAU"
+    "Axolt_Scheduler@2.15.0-1": "04tN10000070YvJIAU",
+    "Axolt_Scheduler@2.16.0-1": "04tN10000070Z0BIAU",
+    "Axolt_Finance@1.137.0-1": "04tN10000070aAjIAI"
   }
 }
