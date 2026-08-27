@@ -2,10 +2,10 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true,
+      "default": false,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.378.0",
-      "versionNumber": "2.378.0.NEXT",
+      "versionName": "AxoltBase2.379.0",
+      "versionNumber": "2.379.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -89,8 +89,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.135.0",
-      "versionNumber": "1.135.0.NEXT",
+      "versionName": "AxoltFinance1.136.0",
+      "versionNumber": "1.136.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -126,8 +126,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.146.0",
-      "versionNumber": "1.146.0.NEXT",
+      "versionName": "AxoltLogistic1.147.0",
+      "versionNumber": "1.147.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -144,8 +144,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.119.0",
-      "versionNumber": "1.119.0.NEXT",
+      "versionName": "AxoltManufacturing1.120.0",
+      "versionNumber": "1.120.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -155,17 +155,17 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.366.0-2"
+          "package": "Axolt_Base@2.379.0-1"
         }
       ]
     },
     {
       "path": "force-app-Scheduler",
       "package": "Axolt_Scheduler",
-      "versionName": "AxoltScheduler 2.13.0",
-      "versionNumber": "2.13.0.NEXT",
+      "versionName": "AxoltScheduler 2.14.0",
+      "versionNumber": "2.14.0.NEXT",
       "ancestorVersion": "HIGHEST",
-      "default": false,
+      "default": true,
       "definitionFile": "config/project-scratch-def.json",
       "packageMetadataAccess": {
         "permissionSets": [
@@ -1326,6 +1326,10 @@
     "Axolt_Finance@1.134.0-1": "04tN1000006xyMTIAY",
     "Axolt_Base@2.377.0-1": "04tN1000006z0CXIAY",
     "Axolt_Finance@1.135.0-1": "04tN1000006zB9ZIAU",
-    "Axolt_Base@2.378.0-1": "04tN1000006zbNNIAY"
+    "Axolt_Base@2.378.0-1": "04tN1000006zbNNIAY",
+    "Axolt_Finance@1.136.0-1": "04tN1000006zpF3IAI",
+    "Axolt_Logistic@1.147.0-1": "04tN1000006zuRdIAI",
+    "Axolt_Scheduler@2.14.0-1": "04tN10000070Xb3IAE",
+    "Axolt_Base@2.379.0-1": "04tN10000070YbxIAE"
   }
 }
