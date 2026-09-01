@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.380.0",
-      "versionNumber": "2.380.0.NEXT",
+      "versionName": "AxoltBase2.382.0",
+      "versionNumber": "2.382.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -89,8 +89,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.137.0",
-      "versionNumber": "1.137.0.NEXT",
+      "versionName": "AxoltFinance1.138.0",
+      "versionNumber": "1.138.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -119,7 +119,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.379.0-1"
+          "package": "Axolt_Base@2.381.0-1"
         }
       ]
     },
@@ -144,8 +144,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.120.0",
-      "versionNumber": "1.120.0.NEXT",
+      "versionName": "AxoltManufacturing1.121.0",
+      "versionNumber": "1.121.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -155,7 +155,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.379.0-1"
+          "package": "Axolt_Base@2.381.0-1"
         }
       ]
     },
@@ -1337,6 +1337,8 @@
     "Axolt_Manufacturing@1.120.0-1": "04tN10000070rptIAA",
     "Axolt_Scheduler@2.17.0-1": "04tN100000711u5IAA",
     "Axolt_CPQ@1.71.0-1": "04tN10000071sNJIAY",
-    "Axolt_Base@2.380.0-1": "04tN100000721SDIAY"
+    "Axolt_Base@2.380.0-1": "04tN100000721SDIAY",
+    "Axolt_Base@2.381.0-1": "04tN10000072S0zIAE",
+    "Axolt_Manufacturing@1.121.0-1": "04tN10000072ZC9IAM"
   }
 }
