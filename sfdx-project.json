@@ -144,8 +144,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.121.0",
-      "versionNumber": "1.121.0.NEXT",
+      "versionName": "AxoltManufacturing1.122.0",
+      "versionNumber": "1.122.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -1342,6 +1342,8 @@
     "Axolt_Manufacturing@1.121.0-1": "04tN10000072ZC9IAM",
     "Axolt_Base@2.382.0-2": "04tN10000072bPFIAY",
     "Axolt_Finance@1.138.0-1": "04tN10000072pTpIAI",
-    "Axolt_HRMS@1.68.0-1": "04tN10000072rnNIAQ"
+    "Axolt_HRMS@1.68.0-1": "04tN10000072rnNIAQ",
+    "Axolt_Logistic@1.148.0-1": "04tN10000072wNFIAY",
+    "Axolt_Manufacturing@1.122.0-1": "04tN10000072zszIAA"
   }
 }
