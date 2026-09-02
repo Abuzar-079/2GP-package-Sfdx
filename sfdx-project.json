@@ -100,7 +100,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.379.0-1"
+          "package": "Axolt_Base@2.382.0-2"
         }
       ]
     },
@@ -119,15 +119,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.381.0-1"
+          "package": "Axolt_Base@2.382.0-2"
         }
       ]
     },
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.147.0",
-      "versionNumber": "1.147.0.NEXT",
+      "versionName": "AxoltLogistic1.148.0",
+      "versionNumber": "1.148.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -137,7 +137,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.374.0-1"
+          "package": "Axolt_Base@2.382.0-2"
         }
       ]
     },
@@ -1339,6 +1339,9 @@
     "Axolt_CPQ@1.71.0-1": "04tN10000071sNJIAY",
     "Axolt_Base@2.380.0-1": "04tN100000721SDIAY",
     "Axolt_Base@2.381.0-1": "04tN10000072S0zIAE",
-    "Axolt_Manufacturing@1.121.0-1": "04tN10000072ZC9IAM"
+    "Axolt_Manufacturing@1.121.0-1": "04tN10000072ZC9IAM",
+    "Axolt_Base@2.382.0-2": "04tN10000072bPFIAY",
+    "Axolt_Finance@1.138.0-1": "04tN10000072pTpIAI",
+    "Axolt_HRMS@1.68.0-1": "04tN10000072rnNIAQ"
   }
 }
