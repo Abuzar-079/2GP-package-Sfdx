@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.382.0",
-      "versionNumber": "2.382.0.NEXT",
+      "versionName": "AxoltBase2.383.0",
+      "versionNumber": "2.383.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "unpackagedMetadata": {
         "EmailTemplate": [
@@ -1344,6 +1344,7 @@
     "Axolt_Finance@1.138.0-1": "04tN10000072pTpIAI",
     "Axolt_HRMS@1.68.0-1": "04tN10000072rnNIAQ",
     "Axolt_Logistic@1.148.0-1": "04tN10000072wNFIAY",
-    "Axolt_Manufacturing@1.122.0-1": "04tN10000072zszIAA"
+    "Axolt_Manufacturing@1.122.0-1": "04tN10000072zszIAA",
+    "Axolt_Base@2.383.0-3": "04tN10000073qKbIAI"
   }
 }
