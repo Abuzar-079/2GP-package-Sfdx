@@ -25,6 +25,11 @@
     },
     "einsteinGptSettings": {
     "enableEinsteinGptPlatform": true
-    }
+    },
+
+  "languageSettings": {
+    "enableTranslationWorkbench": true,
+    "enableEndUserLanguages": true
+  }
   }
 }
