@@ -1,6 +1,6 @@
 {
   "orgName": "Base",
-  "sourceOrg": "00D8d000007YxgS",
+  "orgShape": "00D8d000007YxgS",
   "features": [
     "EnableSetPasswordInApi",
     "Communities",
@@ -24,12 +24,11 @@
       "enableNetworksEnabled": true
     },
     "einsteinGptSettings": {
-    "enableEinsteinGptPlatform": true
+      "enableEinsteinGptPlatform": true
     },
-
-  "languageSettings": {
-    "enableTranslationWorkbench": true,
-    "enableEndUserLanguages": true
-  }
+    "languageSettings": {
+      "enableTranslationWorkbench": true,
+      "enableEndUserLanguages": true
+    }
   }
 }
