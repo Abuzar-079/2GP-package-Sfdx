@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.384.0",
-      "versionNumber": "2.384.0.NEXT",
+      "versionName": "AxoltBase2.385.0",
+      "versionNumber": "2.385.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -72,8 +72,8 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.71.0",
-      "versionNumber": "1.71.0.NEXT",
+      "versionName": "AxoltCPQ1.72.0",
+      "versionNumber": "1.72.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "apexTestAccess": {
@@ -83,7 +83,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.366.0-2"
+          "package": "Axolt_Base@2.385.0-1"
         }
       ]
     },
@@ -1349,6 +1349,8 @@
     "Axolt_Base@2.383.0-3": "04tN10000073qKbIAI",
     "Axolt_HRMS@1.69.0-1": "04tN10000077o45IAA",
     "Axolt_Base@2.384.0-1": "04tN10000078J9VIAU",
-    "Axolt_Finance@1.139.0-1": "04tN10000079F2DIAU"
+    "Axolt_Finance@1.139.0-1": "04tN10000079F2DIAU",
+    "Axolt_Base@2.385.0-1": "04tN10000079nezIAA",
+    "Axolt_CPQ@1.72.0-1": "04tN10000079r97IAA"
   }
 }
