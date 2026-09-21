@@ -61,6 +61,7 @@ $RECYCLE.BIN/
 # Local scratch files currently present at the project root
 /testfile.txt
 /testfile.txt.gpg
+/.metadata-quarantine/
 
 
 # Local environment variables
