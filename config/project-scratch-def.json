@@ -28,7 +28,8 @@
     },
     "languageSettings": {
       "enableTranslationWorkbench": true,
-      "enableEndUserLanguages": true
+      "enableEndUserLanguages": true,
+      "enablePlatformLanguages": true
     }
   }
 }

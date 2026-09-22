@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.386.0",
-      "versionNumber": "2.386.0.NEXT",
+      "versionName": "AxoltBase2.388.0",
+      "versionNumber": "2.388.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -90,10 +90,11 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.140.0",
-      "versionNumber": "1.140.0.NEXT",
+      "versionName": "AxoltFinance1.141.0",
+      "versionNumber": "1.141.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
+      "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
         "permissionSets": [
           "CRUD_only_all_objects_PS"
@@ -101,7 +102,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.384.0-1"
+          "package": "Axolt_Base@2.386.0-1"
         }
       ]
     },
@@ -145,10 +146,11 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.122.0",
-      "versionNumber": "1.122.0.NEXT",
+      "versionName": "AxoltManufacturing1.123.0",
+      "versionNumber": "1.123.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
+      "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
         "permissionSets": [
           "CRUD_only_all_objects_PS"
@@ -156,7 +158,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.381.0-1"
+          "package": "Axolt_Base@2.388.0-1"
         }
       ]
     },
@@ -1353,6 +1355,10 @@
     "Axolt_Base@2.385.0-1": "04tN10000079nezIAA",
     "Axolt_CPQ@1.72.0-1": "04tN10000079r97IAA",
     "Axolt_Finance@1.140.0-1": "04tN1000007B5JhIAK",
-    "Axolt_Base@2.386.0-1": "04tN1000007BYtZIAW"
+    "Axolt_Base@2.386.0-1": "04tN1000007BYtZIAW",
+    "Axolt_Finance@1.141.0-1": "04tN1000007Chy1IAC",
+    "Axolt_Base@2.387.0-1": "04tN1000007D5ttIAC",
+    "Axolt_Base@2.388.0-1": "04tN1000007DN61IAG",
+    "Axolt_Manufacturing@1.123.0-1": "04tN1000007DXIHIA4"
   }
 }
