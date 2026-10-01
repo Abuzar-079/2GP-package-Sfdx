@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.388.0",
-      "versionNumber": "2.388.0.NEXT",
+      "versionName": "AxoltBase2.389.0",
+      "versionNumber": "2.389.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -1359,6 +1359,7 @@
     "Axolt_Finance@1.141.0-1": "04tN1000007Chy1IAC",
     "Axolt_Base@2.387.0-1": "04tN1000007D5ttIAC",
     "Axolt_Base@2.388.0-1": "04tN1000007DN61IAG",
-    "Axolt_Manufacturing@1.123.0-1": "04tN1000007DXIHIA4"
+    "Axolt_Manufacturing@1.123.0-1": "04tN1000007DXIHIA4",
+    "Axolt_Base@2.389.0-1": "04tN1000007IkYDIA0"
   }
 }
