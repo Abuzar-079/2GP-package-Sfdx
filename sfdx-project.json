@@ -91,8 +91,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.142.0",
-      "versionNumber": "1.142.0.NEXT",
+      "versionName": "AxoltFinance1.143.0",
+      "versionNumber": "1.143.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -130,8 +130,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.148.0",
-      "versionNumber": "1.148.0.NEXT",
+      "versionName": "AxoltLogistic1.149.0",
+      "versionNumber": "1.149.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1369,6 +1369,7 @@
     "Axolt_Base@2.392.0-1": "04tN1000007NEW5IAO",
     "Axolt_HRMS@1.70.0-1": "04tN1000007NF3xIAG",
     "Axolt_Manufacturing@1.124.0-1": "04tN1000007NFAPIA4",
-    "Axolt_CPQ@1.73.0-1": "04tN1000007NKhxIAG"
+    "Axolt_CPQ@1.73.0-1": "04tN1000007NKhxIAG",
+    "Axolt_Manufacturing@1.125.0-2": "04tN1000007NLPVIA4"
   }
 }
