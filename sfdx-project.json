@@ -84,7 +84,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.391.0-2"
+          "package": "Axolt_Base@2.392.0-1"
         }
       ]
     },
@@ -1366,6 +1366,6 @@
     "Axolt_Base@2.389.0-1": "04tN1000007IkYDIA0",
     "Axolt_Base@2.390.0-1": "04tN1000007MSjBIAW",
     "Axolt_Base@2.391.0-2": "04tN1000007N96bIAC",
-    "Axolt_Base@2.392.0-1": "04tN1000007NEW5IAO"
+    "Axolt_HRMS@1.70.0-1": "04tN1000007NF3xIAG"
   }
 }
