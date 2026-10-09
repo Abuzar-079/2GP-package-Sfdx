@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.390.0",
-      "versionNumber": "2.390.0.NEXT",
+      "versionName": "AxoltBase2.392.0",
+      "versionNumber": "2.392.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -72,10 +72,11 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.72.0",
-      "versionNumber": "1.72.0.NEXT",
+      "versionName": "AxoltCPQ1.73.0",
+      "versionNumber": "1.73.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
+      "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
         "permissionSets": [
           "CRUD_only_all_objects_PS"
@@ -83,7 +84,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.385.0-1"
+          "package": "Axolt_Base@2.391.0-2"
         }
       ]
     },
@@ -102,18 +103,19 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.389.0-1"
+          "package": "Axolt_Base@2.391.0-2"
         }
       ]
     },
     {
       "path": "force-app-Hrms",
       "package": "Axolt_HRMS",
-      "versionName": "ver 1.69.0",
-      "versionNumber": "1.69.0.NEXT",
+      "versionName": "ver 1.70.0",
+      "versionNumber": "1.70.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "versionDescription": "",
+      "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
         "permissionSets": [
           "CRUD_only_all_objects_PS"
@@ -121,7 +123,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.382.0-2"
+          "package": "Axolt_Base@2.391.0-2"
         }
       ]
     },
@@ -132,6 +134,7 @@
       "versionNumber": "1.148.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
+      "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
         "permissionSets": [
           "CRUD_only_all_objects_PS"
@@ -139,15 +142,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.382.0-2"
+          "package": "Axolt_Base@2.391.0-2"
         }
       ]
     },
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.123.0",
-      "versionNumber": "1.123.0.NEXT",
+      "versionName": "AxoltManufacturing1.124.0",
+      "versionNumber": "1.124.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -158,7 +161,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.388.0-1"
+          "package": "Axolt_Base@2.391.0-2"
         }
       ]
     },
@@ -1361,6 +1364,7 @@
     "Axolt_Base@2.388.0-1": "04tN1000007DN61IAG",
     "Axolt_Manufacturing@1.123.0-1": "04tN1000007DXIHIA4",
     "Axolt_Base@2.389.0-1": "04tN1000007IkYDIA0",
-    "Axolt_Base@2.390.0-1": "04tN1000007MSjBIAW"
+    "Axolt_Base@2.390.0-1": "04tN1000007MSjBIAW",
+    "Axolt_Base@2.391.0-2": "04tN1000007N96bIAC"
   }
 }
