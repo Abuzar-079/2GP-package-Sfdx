@@ -110,8 +110,8 @@
     {
       "path": "force-app-Hrms",
       "package": "Axolt_HRMS",
-      "versionName": "ver 1.70.0",
-      "versionNumber": "1.70.0.NEXT",
+      "versionName": "ver 1.71.0",
+      "versionNumber": "1.71.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "versionDescription": "",
@@ -149,8 +149,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.125.0",
-      "versionNumber": "1.125.0.NEXT",
+      "versionName": "AxoltManufacturing1.126.0",
+      "versionNumber": "1.126.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1370,6 +1370,7 @@
     "Axolt_HRMS@1.70.0-1": "04tN1000007NF3xIAG",
     "Axolt_Manufacturing@1.124.0-1": "04tN1000007NFAPIA4",
     "Axolt_CPQ@1.73.0-1": "04tN1000007NKhxIAG",
-    "Axolt_Manufacturing@1.125.0-2": "04tN1000007NLPVIA4"
+    "Axolt_Manufacturing@1.125.0-2": "04tN1000007NLPVIA4",
+    "Axolt_Manufacturing@1.126.0-1": "04tN1000007NsdBIAS"
   }
 }
