@@ -103,7 +103,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.391.0-2"
+          "package": "Axolt_Base@2.397.0-1"
         }
       ]
     },
@@ -1383,6 +1383,7 @@
     "Axolt_Manufacturing@1.128.0-1": "04tN1000007QphCIAS",
     "Axolt_Manufacturing@1.129.0-1": "04tN1000007QvLBIA0",
     "Axolt_Base@2.397.0-1": "04tN1000007S8OPIA0",
-    "Axolt_Logistic@1.151.0-1": "04tN1000007S8bJIAS"
+    "Axolt_Logistic@1.151.0-1": "04tN1000007S8bJIAS",
+    "Axolt_Finance@1.143.0-1": "04tN1000007STRFIA4"
   }
 }
