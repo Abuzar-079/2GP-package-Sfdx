@@ -2,10 +2,10 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false,
+      "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.398.0",
-      "versionNumber": "2.398.0.NEXT",
+      "versionName": "AxoltBase2.399.0",
+      "versionNumber": "2.399.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -93,7 +93,7 @@
       "package": "Axolt_Finance",
       "versionName": "AxoltFinance1.144.0",
       "versionNumber": "1.144.0.NEXT",
-      "default": true,
+      "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "apexTestAccess": {
@@ -110,8 +110,8 @@
     {
       "path": "force-app-Hrms",
       "package": "Axolt_HRMS",
-      "versionName": "ver 1.71.0",
-      "versionNumber": "1.71.0.NEXT",
+      "versionName": "ver 1.72.0",
+      "versionNumber": "1.72.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "versionDescription": "",
@@ -123,15 +123,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.391.0-2"
+          "package": "Axolt_Base@2.399.0-1"
         }
       ]
     },
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.154.0",
-      "versionNumber": "1.154.0.NEXT",
+      "versionName": "AxoltLogistic1.155.0",
+      "versionNumber": "1.155.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -142,7 +142,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.396.0.1"
+          "package": "Axolt_Base@2.399.0-1"
         }
       ]
     },
@@ -1389,6 +1389,8 @@
     "Axolt_Finance@1.144.0-2": "04tN1000007T31hIAC",
     "Axolt_Logistic@1.152.0-1": "04tN1000007T3xlIAC",
     "Axolt_Logistic@1.153.0-1": "04tN1000007TJzJIAW",
-    "Axolt_Logistic@1.154.0-1": "04tN1000007TMltIAG"
+    "Axolt_Logistic@1.154.0-1": "04tN1000007TMltIAG",
+    "Axolt_Base@2.399.0-1": "04tN1000007U25BIAS",
+    "Axolt_HRMS@1.72.0-1": "04tN1000007UBtFIAW"
   }
 }
