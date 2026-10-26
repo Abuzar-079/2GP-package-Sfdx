@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.400.0",
-      "versionNumber": "2.400.0.NEXT",
+      "versionName": "AxoltBase2.401.0",
+      "versionNumber": "2.401.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -142,15 +142,15 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.399.0-1"
+          "package": "Axolt_Base@2.401.0-1"
         }
       ]
     },
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.130.0",
-      "versionNumber": "1.130.0.NEXT",
+      "versionName": "AxoltManufacturing1.131.0",
+      "versionNumber": "1.131.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -161,7 +161,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.399.0-1"
+          "package": "Axolt_Base@2.401.0-1"
         }
       ]
     },
@@ -1396,6 +1396,8 @@
     "Axolt_Manufacturing@1.130.0-1": "04tN1000007UHc5IAG",
     "Axolt_CPQ@1.74.0-1": "04tN1000007URd3IAG",
     "Axolt_HRMS@1.73.0-1": "04tN1000007UrcLIAS",
-    "Axolt_Base@2.400.0-1": "04tN1000007VyLdIAK"
+    "Axolt_Base@2.400.0-1": "04tN1000007VyLdIAK",
+    "Axolt_Base@2.401.0-1": "04tN1000007W5LVIA0",
+    "Axolt_Logistic@1.156.0-1": "04tN1000007WEtRIAW"
   }
 }
