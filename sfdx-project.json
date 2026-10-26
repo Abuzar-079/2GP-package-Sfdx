@@ -1395,6 +1395,7 @@
     "Axolt_Logistic@1.155.0-1": "04tN1000007UGT7IAO",
     "Axolt_Manufacturing@1.130.0-1": "04tN1000007UHc5IAG",
     "Axolt_CPQ@1.74.0-1": "04tN1000007URd3IAG",
-    "Axolt_HRMS@1.73.0-1": "04tN1000007UrcLIAS"
+    "Axolt_HRMS@1.73.0-1": "04tN1000007UrcLIAS",
+    "Axolt_Base@2.400.0-1": "04tN1000007VyLdIAK"
   }
 }
