@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.401.0",
-      "versionNumber": "2.401.0.NEXT",
+      "versionName": "AxoltBase2.402.0",
+      "versionNumber": "2.402.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -130,8 +130,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.156.0",
-      "versionNumber": "1.156.0.NEXT",
+      "versionName": "AxoltLogistic1.157.0",
+      "versionNumber": "1.157.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1398,6 +1398,8 @@
     "Axolt_HRMS@1.73.0-1": "04tN1000007UrcLIAS",
     "Axolt_Base@2.400.0-1": "04tN1000007VyLdIAK",
     "Axolt_Base@2.401.0-1": "04tN1000007W5LVIA0",
-    "Axolt_Logistic@1.156.0-1": "04tN1000007WEtRIAW"
+    "Axolt_Logistic@1.156.0-1": "04tN1000007WEtRIAW",
+    "Axolt_Base@2.402.0-1": "04tN1000007WKafIAG",
+    "Axolt_Manufacturing@1.131.0-2": "04tN1000007Wl6DIAS"
   }
 }
