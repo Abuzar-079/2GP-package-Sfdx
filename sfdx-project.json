@@ -1409,7 +1409,9 @@
     "Axolt_CPQ@1.75.0-1": "04tN1000007aXnpIAE",
     "Axolt_Base@2.407.0-1": "04tN1000007aYf3IAE",
     "Axolt_Manufacturing@1.132.0-1": "04tN1000007aaCDIAY",
-    "Axolt_Manufacturing@1.133.0.1": "04tN1000007ach3IAA",
-    "Axolt_Base@2.408.0-1": "04tN1000007ayMbIAI"
+    "Axolt_Manufacturing@1.133.0-1": "04tN1000007ach3IAA",
+    "Axolt_Manufacturing@1.135.0-1": "04tN1000007awRFIAY",
+    "Axolt_Base@2.408.0-1": "04tN1000007ayMbIAI",
+    "Axolt_HRMS@1.74.0-1": "04tN1000007b03RIAQ"
   }
 }
