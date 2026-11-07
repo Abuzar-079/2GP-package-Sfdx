@@ -149,8 +149,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.138.0",
-      "versionNumber": "1.138.0.NEXT",
+      "versionName": "AxoltManufacturing1.139.0",
+      "versionNumber": "1.139.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1415,6 +1415,7 @@
     "Axolt_HRMS@1.74.0-1": "04tN1000007b03RIAQ",
     "Axolt_Manufacturing@1.136.0-1": "04tN1000007b1M5IAI",
     "Axolt_Manufacturing@1.137.0-2": "04tN1000007bLvtIAE",
-    "Axolt_Manufacturing@1.138.0-1": "04tN1000007bOFRIA2"
+    "Axolt_Manufacturing@1.138.0-1": "04tN1000007bOFRIA2",
+    "Axolt_Manufacturing@1.139.0-2": "04tN1000007bhRlIAI"
   }
 }
