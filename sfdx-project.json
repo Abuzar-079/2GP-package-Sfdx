@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.408.0",
-      "versionNumber": "2.408.0.NEXT",
+      "versionName": "AxoltBase2.409.0",
+      "versionNumber": "2.409.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -72,8 +72,8 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.75.0",
-      "versionNumber": "1.75.0.NEXT",
+      "versionName": "AxoltCPQ1.76.0",
+      "versionNumber": "1.76.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1416,6 +1416,7 @@
     "Axolt_Manufacturing@1.136.0-1": "04tN1000007b1M5IAI",
     "Axolt_Manufacturing@1.137.0-2": "04tN1000007bLvtIAE",
     "Axolt_Manufacturing@1.138.0-1": "04tN1000007bOFRIA2",
-    "Axolt_Manufacturing@1.139.0-2": "04tN1000007bhRlIAI"
+    "Axolt_Manufacturing@1.139.0-2": "04tN1000007bhRlIAI",
+    "Axolt_CPQ@1.76.0-1": "04tN1000007boppIAA"
   }
 }
