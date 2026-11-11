@@ -110,8 +110,8 @@
     {
       "path": "force-app-Hrms",
       "package": "Axolt_HRMS",
-      "versionName": "ver 1.74.0",
-      "versionNumber": "1.74.0.NEXT",
+      "versionName": "ver 1.75.0",
+      "versionNumber": "1.75.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "versionDescription": "",
@@ -123,7 +123,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.406.0-2"
+          "package": "Axolt_Base@2.409.0-2"
         }
       ]
     },
@@ -1419,6 +1419,7 @@
     "Axolt_Manufacturing@1.139.0-2": "04tN1000007bhRlIAI",
     "Axolt_CPQ@1.76.0-1": "04tN1000007boppIAA",
     "Axolt_Base@2.409.0-1": "04tN1000007cehxIAA",
-    "Axolt_Base@2.409.0-2": "04tN1000007d9AfIAI"
+    "Axolt_Base@2.409.0-2": "04tN1000007d9AfIAI",
+    "Axolt_HRMS@1.75.0-1": "04tN1000007dNdRIAU"
   }
 }
