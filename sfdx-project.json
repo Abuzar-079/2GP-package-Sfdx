@@ -4,8 +4,8 @@
       "path": "force-app",
       "default": true,
       "package": "Axolt_Base",
-      "versionName": "AxoltBase2.411.0",
-      "versionNumber": "2.411.0.NEXT",
+      "versionName": "AxoltBase2.412.0",
+      "versionNumber": "2.412.0.NEXT",
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
       "unpackagedMetadata": {
@@ -1423,6 +1423,7 @@
     "Axolt_HRMS@1.75.0-1": "04tN1000007dNdRIAU",
     "Axolt_Base@2.410.0-1": "04tN1000007daxFIAQ",
     "Axolt_Base@2.411.0-1": "04tN1000007eJO5IAM",
-    "Axolt_HRMS@1.76.0-1": "04tN1000007eMDtIAM"
+    "Axolt_HRMS@1.76.0-1": "04tN1000007eMDtIAM",
+    "Axolt_Base@2.412.0-1": "04tN1000007eWMvIAM"
   }
 }
