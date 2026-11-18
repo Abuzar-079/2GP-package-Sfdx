@@ -72,8 +72,8 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.77.0",
-      "versionNumber": "1.77.0.NEXT",
+      "versionName": "AxoltCPQ1.79.0",
+      "versionNumber": "1.79.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -91,8 +91,8 @@
     {
       "path": "force-app-Finance",
       "package": "Axolt_Finance",
-      "versionName": "AxoltFinance1.145.0",
-      "versionNumber": "1.145.0.NEXT",
+      "versionName": "AxoltFinance1.146.0",
+      "versionNumber": "1.146.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -130,8 +130,8 @@
     {
       "path": "force-app-Logistic",
       "package": "Axolt_Logistic",
-      "versionName": "AxoltLogistic1.159.0",
-      "versionNumber": "1.159.0.NEXT",
+      "versionName": "AxoltLogistic1.160.0",
+      "versionNumber": "1.160.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -1431,6 +1431,11 @@
     "Axolt_Logistic@1.159.0-1": "04tN1000007fHKDIA2",
     "Axolt_Manufacturing@1.140.0-1": "04tN1000007fHNRIA2",
     "Axolt_Base@2.415.0-1": "04tN1000007fXSDIA2",
-    "Axolt_CPQ@1.77.0-1": "04tN1000007fysDIAQ"
+    "Axolt_CPQ@1.77.0-1": "04tN1000007fysDIAQ",
+    "Axolt_CPQ@1.78.0-1": "04tN1000007g1WjIAI",
+    "Axolt_Base@2.416.0-1": "04tN1000007g3lRIAQ",
+    "Axolt_CPQ@1.79.0-1": "04tN1000007g4mLIAQ",
+    "Axolt_Logistic@1.160.0-1": "04tN1000007gVJVIA2",
+    "Axolt_Finance@1.146.0-1":"04tN1000007gahNIAQ"
   }
 }
