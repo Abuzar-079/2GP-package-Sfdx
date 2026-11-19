@@ -11,7 +11,8 @@
     "EINSTEINGPT",
     "EINSTEINGPTPLATFORM",
     "EINSTEINGENERATIVESERVICES",
-    "EINSTEINLLMREQUESTSHOURLY"
+    "EINSTEINLLMREQUESTSHOURLY",
+    "MaxApexCodeSize:15"
   ],
   "settings": {
     "lightningExperienceSettings": {
