@@ -149,8 +149,8 @@
     {
       "path": "force-app-Manufacturing",
       "package": "Axolt_Manufacturing",
-      "versionName": "AxoltManufacturing1.140.0",
-      "versionNumber": "1.140.0.NEXT",
+      "versionName": "AxoltManufacturing1.141.0",
+      "versionNumber": "1.141.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -161,7 +161,7 @@
       },
       "dependencies": [
         {
-          "package": "Axolt_Base@2.414.0-1"
+          "package": "Axolt_Base@2.417.0-2"
         }
       ]
     },
@@ -1442,6 +1442,9 @@
     "Axolt_Finance@1.147.0-3": "04tN1000007h86LIAQ",
     "Axolt_Base@2.417.0-2": "04tN1000007idpdIAA",
     "Axolt_Logistic@1.162.0-1": "04tN1000007ixA1IAI",
-    "Axolt_CPQ@1.80.0-1": "04tN1000007iyZ7IAI"
+    "Axolt_CPQ@1.80.0-1": "04tN1000007iyZ7IAI",
+    "Axolt_HRMS@1.77.0.1": "04tN1000007j17BIAQ",
+    "Axolt_Logistic@1.163.0.1": "04tN1000007j1APIAY",
+    "Axolt_Manufacturing@1.141.0.1": "04tN1000007j1C1IAI"
   }
 }
