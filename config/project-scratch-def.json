@@ -12,7 +12,8 @@
     "EINSTEINGPTPLATFORM",
     "EINSTEINGENERATIVESERVICES",
     "EINSTEINLLMREQUESTSHOURLY",
-    "MaxApexCodeSize:15"
+    "MaxApexCodeSize:15",
+    "MaxCustomLabels:10"
   ],
   "settings": {
     "lightningExperienceSettings": {
