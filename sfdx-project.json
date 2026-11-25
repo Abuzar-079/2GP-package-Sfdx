@@ -72,8 +72,8 @@
     {
       "path": "force-app-CPQ",
       "package": "Axolt_CPQ",
-      "versionName": "AxoltCPQ1.80.0",
-      "versionNumber": "1.80.0.NEXT",
+      "versionName": "AxoltCPQ1.81.0",
+      "versionNumber": "1.81.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "definitionFile": "config/project-scratch-def.json",
@@ -110,8 +110,8 @@
     {
       "path": "force-app-Hrms",
       "package": "Axolt_HRMS",
-      "versionName": "ver 1.77.0",
-      "versionNumber": "1.77.0.NEXT",
+      "versionName": "ver 1.78.0",
+      "versionNumber": "1.78.0.NEXT",
       "default": false,
       "ancestorVersion": "HIGHEST",
       "versionDescription": "",
@@ -1445,6 +1445,9 @@
     "Axolt_CPQ@1.80.0-1": "04tN1000007iyZ7IAI",
     "Axolt_HRMS@1.77.0.1": "04tN1000007j17BIAQ",
     "Axolt_Logistic@1.163.0.1": "04tN1000007j1APIAY",
-    "Axolt_Manufacturing@1.141.0.1": "04tN1000007j1C1IAI"
+    "Axolt_Manufacturing@1.141.0.1": "04tN1000007j1C1IAI",
+    "Axolt_Finance@1.148.0-2": "04tN1000007j8evIAA",
+    "Axolt_CPQ@1.81.0-1":"04tN1000007jAQbIAM",
+    "Axolt_HRMS@1.78.0-1": "04tN1000007jAiLIAU"
   }
 }
